@@ -103,7 +103,6 @@ As aulas do **Bloco 3** serão reconfiguradas como **"Oficinas de Projeto"**, fo
 ---
 
 ## 📌 Observações
-- A escolha das tecnologias deverá considerar diferentes **blocos do curso**.
 - O estudo deverá utilizar dados realistas (mesmo que fictícios) para as análises.
 - A conclusão deve ser baseada em critérios técnicos, econômicos e qualitativos.
 
