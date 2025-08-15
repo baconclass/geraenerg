@@ -1,9 +1,9 @@
-# 📊 Estudo Comparativo de Viabilidade Técnico-Econômica
+# 📊 Estudo de Viabilidade Técnico-Econômica de uma solução para Geração de Energia
 
 ## 4.1 Tema Proposto para o Trabalho Final (TF)
 
 ### 📌 Título
-**Estudo Comparativo de Viabilidade Técnico-Econômica para o Atendimento de uma Curva de Carga Específica**
+**Estudo de Viabilidade Técnico-Econômica para o Atendimento de uma Curva de Carga Específica**
 
 ### 📝 Descrição
 Os grupos de alunos **escolherão o escopo do projeto** de acordo com as opções abaixo:
@@ -28,7 +28,7 @@ Os grupos de alunos **escolherão o escopo do projeto** de acordo com as opçõe
 
 - **10- Estudo de Viabilidade para Produção de Hidrogênio Verde**: Projetar o sistema de geração renovável (eólico ou solar) dedicado a alimentar eletrolisadores para a produção de hidrogênio verde. O projeto deve focar no dimensionamento da planta para uma meta de produção específica e na análise do custo nivelado do hidrogênio (LCOH).
 
-A tarefa consiste em projetar, em nível preliminar, **soluções de geração distintas** para atender a essa demanda.
+A tarefa consiste em projetar, em nível preliminar, **soluções de geração** para atender a essa demanda.
 
 ---
 
