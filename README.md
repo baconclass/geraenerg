@@ -73,7 +73,7 @@ As aulas do **Bloco 3** serão reconfiguradas como **"Oficinas de Projeto"**, fo
 
 ### 📅 Etapas e Prazos
 
-#### **Proposta** — Entrega em **29/08**
+#### **Proposta** — Entrega em **29/10**
 - **Formato:** documento conciso
 - **Conteúdo:**
   - Definição do escopo do projeto dentre as previstas na seção 4.1, e definição da equipe.
