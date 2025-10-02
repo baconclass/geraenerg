@@ -32,6 +32,8 @@ Este checklist deve ser usado para criar sub-issues para cada grande entrega.
 - [ ] **Etapa 1 (Entrega em 12/11 e 14/11)**
 - [ ] **Etapa Final (Entrega em 28/11 e 03/12)**
 
+As entregas devem ocorrer pela pasta do grupo no repositório indicado como /Gx onde x é o número do grupo.
+
 ---
 
 ### 📂 Links Úteis e Arquivos
