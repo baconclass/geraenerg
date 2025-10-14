@@ -91,6 +91,30 @@ Este é o fluxo para o dia a dia de trabalho.
     - **Importante:** O PR deve ser da sua `branch de tarefa` para a `branch do grupo`, **NUNCA** para a `main`.
     - No PR, descreva o que você fez e peça a revisão dos seus colegas de equipe.
 
+## Passo 6: Criando o Roadmap Visual do Grupo (Projeto Kanban)
+
+Para ter uma visão geral do andamento das tarefas e criar o roadmap solicitado pelo professor, cada grupo deve criar seu próprio quadro de projeto.
+
+1.  **Crie o Projeto:**
+
+    - Vá para a aba **Projects** na parte superior do repositório.
+    - Clique em **New Project**, escolha o layout **"Board"** e dê um nome claro (ex: `[Grupo 6] Trabalho Final`).
+
+2.  **Vincule as Issues e Defina os Prazos:**
+
+    - **Cenário A (Se você já criou as issues):**
+      1.  Abra cada uma das suas issues.
+      2.  Na barra lateral direita, encontre a opção **"Projects"** e selecione o projeto do seu grupo.
+      3.  Logo abaixo, preencha os campos **"Start date"** e **"End date"** para definir o cronograma da tarefa.
+    - **Cenário B (Ao criar novas issues):**
+      1.  Após criar a issue, associe-a imediatamente ao seu **Projeto**.
+      2.  Defina as datas de **"Start date"** e **"End date"** para planejar a execução.
+
+3.  **Organize o Quadro:**
+    - Volte para a aba **Projects** e abra o seu quadro.
+    - Suas issues aparecerão como cartões. Arraste e solte cada cartão para a coluna que representa seu status: **Todo** (A fazer), **In Progress** (Em andamento) ou **Done** (Concluído).
+    - Este quadro agora serve como o roadmap visual do seu grupo.
+
 ---
 
 ## Recursos Adicionais de Git e GitHub
