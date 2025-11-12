@@ -1,7 +1,7 @@
-# ⚡ Estudo de Viabilidade: Data Center Modular (Grupo 6)
+# ⚡ Suprimento de Energia: Data Center Modular (Grupo 6)
 
 ![Status: Em Andamento](https://img.shields.io/badge/Status-Em%20Andamento-blueviolet?style=for-the-badge)
-![Próxima Entrega: Proposta](<https://img.shields.io/badge/Pr%C3%B3xima%20Entrega-Proposta%20(29/10)-yellow?style=for-the-badge>)
+![Próxima Entrega: Etapa 1](<https://img.shields.io/badge/Pr%C3%B3xima%20Entrega-Etapa%201%20(12/11)-yellow?style=for-the-badge>)
 ![Issue Principal: #3](https://img.shields.io/badge/Issue%20Principal-%233-informational?style=for-the-badge)
 
 Este documento centraliza as informações e o andamento do projeto do **Grupo 6** para a disciplina de Geração de Energia, focado no **Tema 6: Suprimento de Energia de Alta Confiabilidade para um Data Center Modular**.
@@ -16,11 +16,18 @@ Este documento centraliza as informações e o andamento do projeto do **Grupo 6
 
 ### 🚀 Painel de Controle e Status
 
-- **Issue Principal (nossa main):** [[Grupo 6] Estudo de Viabilidade: Data Center Modular](https://github.com/baconclass/geraenerg/issues/3)
-- **Milestone Atual:** [Grupo 6 - Proposta](https://github.com/baconclass/geraenerg/milestone/1)
+- **Issue Principal (nossa main):** [[Grupo 6] Suprimento de Energia: Data Center Modular](https://github.com/baconclass/geraenerg/issues/3)
+- **Milestone Atual:** [Grupo 6 - Etapa 1](https://github.com/baconclass/geraenerg/milestone/1)
 - **Branch de Desenvolvimento:** `g6-data-center-modular`
 
-**Status Atual:** O foco do grupo está na finalização da **Proposta (Issue #4)** e no início dos trabalhos da **Etapa 1**, começando pelas sub-issues de **Análise de Demanda** e **Definição da Metodologia**.
+**Status Atual:** O foco do grupo está na finalização da **Etapa 1**, começando pelas sub-issues de **Análise de Demanda** e **Definição da Metodologia**.
+
+---
+
+### 📂 Links Rápidos para Documentos
+
+- **[PROPOSTA](./docs/Proposta_Grupo6.pdf):** Documento de proposta (Issue #4).
+- **[RESUMO DE REFERÊNCIAS (ETAPA 1)](./docs/Resumo_de_Referências_Etapa_1.pdf):** Guia de estudo e plano de ação para a Etapa 1 (Issues #8 a #11).
 
 ---
 
