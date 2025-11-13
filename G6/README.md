@@ -20,14 +20,15 @@ Este documento centraliza as informações e o andamento do projeto do **Grupo 6
 - **Milestone Atual:** [Grupo 6 - Etapa 1](https://github.com/baconclass/geraenerg/milestone/1)
 - **Branch de Desenvolvimento:** `g6-data-center-modular`
 
-**Status Atual:** O foco do grupo está na finalização da **Etapa 1**, começando pelas sub-issues de **Análise de Demanda** e **Definição da Metodologia**.
+**Status Atual:** A Proposta (Issue #4) foi concluída. O foco atual é a **Etapa 1 (Issue #8, #9, #10, #11)**.
 
 ---
 
 ### 📂 Links Rápidos para Documentos
 
-- **[PROPOSTA](./docs/Proposta_Grupo6.pdf):** Documento de proposta (Issue #4).
-- **[RESUMO DE REFERÊNCIAS (ETAPA 1)](./docs/Resumo_de_Referências_Etapa_1.pdf):** Guia de estudo e plano de ação para a Etapa 1 (Issues #8 a #11).
+- **[PROPOSTA (PDF)](./docs/Proposta_Grupo6.pdf):** Documento de proposta (Issue #4).
+- **[RESUMO DE REFERÊNCIAS (ETAPA 1)](./docs/Resumo_de_Referências_Etapa_1.pdf):** Guia de estudo e plano de ação para a Etapa 1.
+- **[RELATÓRIO ETAPA 1 (EM ANDAMENTO)](./docs/Grupo_6_Etapa_1_Em_andamento.pdf):** Documento da Etapa 1, com Análise de Demanda e Metodologia.
 
 ---
 
@@ -36,21 +37,16 @@ Este documento centraliza as informações e o andamento do projeto do **Grupo 6
 Para garantir a organização, todo o trabalho do grupo deve seguir este fluxo:
 
 1.  **Sincronize sua branch principal do grupo:**
-
     ```bash
     git checkout g6-data-center-modular
     git pull origin g6-data-center-modular
     ```
-
 2.  **Crie uma nova branch para sua tarefa específica** (a partir da branch do grupo):
-
     ```bash
-    # Exemplo: git checkout -b feat/analise-demanda
-    git checkout -b <tipo>/<nome-da-tarefa>
+    # Exemplo: git checkout -b g6-feat/analise-demanda
+    git checkout -b g6-<tipo>/<nome-da-tarefa>
     ```
-
 3.  **Trabalhe na sua tarefa** e faça os commits.
-
 4.  **Abra um Pull Request** da sua branch de tarefa para a `g6-data-center-modular` para que a equipe possa revisar.
 
 ### 📝 Padrão de Commits (Conventional Commits)
@@ -75,3 +71,14 @@ Para manter nosso histórico de alterações limpo e legível, todos os commits 
 - `feat(analise-demanda): calcula o fator de carga`
 - `docs(readme): adiciona seção de padrão de commits`
 - `fix(relatorio): corrige erro de digitação na introdução`
+
+---
+
+### Próximo Passo: O Commit 4
+
+Agora você pode fazer o **Commit 4** (o último do nosso plano) para salvar esta atualização:
+
+```bash
+git add README.md
+git commit -m "docs(readme): atualiza README do G6 com link para Relatório da Etapa 1"
+```
